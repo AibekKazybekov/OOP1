@@ -15,7 +15,7 @@ public class Main {
         person1 .email=scanner.nextLine();
 
         System.out.println("Name: "+ person1.firsName+" \nlastName: " );
-
+        System.out.println("Novyi commit");
 
 
 
